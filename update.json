@@ -1,11 +1,11 @@
 {
-  "com.example.safestore": {
+  "com.babybloxz.update": {
     "show_dialog": true,
     "force": false,
-    "update_url": "https://t.me/channel_kamu",
-    "app_name": "BabyBloxZ",
+    "update_url": "https://t.me/BabyBloxZ01",
+    "app_name": "",
     "top_title": "Update Available",
-    "main_title": "Version 6.1.0 Out Now!",
+    "main_title": "Version 1.0.1 Out Now!",
     "sub_title": "Can't wait to see you in the new version.",
     "message": "Click “Update Now” to download the latest version from our Telegram channel."
   },
