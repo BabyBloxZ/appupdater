@@ -3,19 +3,9 @@
     "show_dialog": true,
     "force": true,
     "update_url": "https://t.me/BabyBloxZ01",
-    "app_name": "",
     "top_title": "Update Available",
-    "main_title": "Version 1.1 Out Now!",
-    "sub_title": "Can't wait to see you in the new version.",
-    "message": "Click “Update Now” to download the latest version from our Telegram channel."
-  },
-  "com.example.appkedua": {
-    "show_dialog": true,
-    "force": false,
-    "update_url": "https://t.me/channel_kamu",
-    "top_title": "Update Available",
-    "main_title": "Version 2.3.0 Out Now!",
-    "sub_title": "Can't wait to see you in the new version.",
-    "message": "Click “Update Now” to download the latest version from our Telegram channel."
+    "main_title": "New Version Out Now!",
+    "sub_title": "Can\u2019t wait to see you in the new version.",
+    "message": "Click \u201CUpdate Now\u201D to download the latest version from our Telegram channel."
   }
 }
