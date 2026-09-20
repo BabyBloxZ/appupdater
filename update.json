@@ -1,11 +1,11 @@
 {
   "com.babybloxz.update": {
     "show_dialog": true,
-    "force": false,
+    "force": true,
     "update_url": "https://t.me/BabyBloxZ01",
     "app_name": "",
     "top_title": "Update Available",
-    "main_title": "Version 1.0.1 Out Now!",
+    "main_title": "Version 1.1 Out Now!",
     "sub_title": "Can't wait to see you in the new version.",
     "message": "Click “Update Now” to download the latest version from our Telegram channel."
   },
